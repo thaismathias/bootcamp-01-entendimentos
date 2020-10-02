@@ -1,8 +1,10 @@
-# Por favor faça um Fork desse projeto!
+# Por favor, escreva seus entendimentos sobre os tópicos abaixo:
 
-- post sobre ser melhor estudante
-- post sobre cdd
-- post sobre o conjunto de técnicas de código
-- post sobre cada funcionalidade implementada
+- Sobre ser melhor estudante
+- Sobre cdd
+- Sobre o conjunto de técnicas de código
+- Sobre cada funcionalidade implementada
+
+# Por favor faça um Fork desse projeto!
 
 ## Está em dúvida de como fazer um Fork? Não tem problema! [Aqui tem uma explicação do que entendemos que você deve considerar!](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
